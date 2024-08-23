@@ -1,0 +1,1 @@
+Hi! I made a Pirate Spyglass (or Telescope) 3D Model on Autodesk Fusion 360, I hope you enjoy it and feel free to use it. You can open it with Solidworks, ThinkerCAD, Meshmixer and other 3D viewers, see ya!
